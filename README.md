@@ -2,7 +2,7 @@
 
 Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. 
 
-- 💻 I’m currently working on my thesis project **pluggabl**[*\[coming soon...\]*]
+- 💻 I’m currently working on my thesis project **pluggabl** *\[coming soon...\]*
 - 🌱 I’m currently learning GoLang and gRPC
 - 💬 Ask me about anything [here](https://github.com/Shanduur/shanduur/issues)
 

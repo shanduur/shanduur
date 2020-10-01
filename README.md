@@ -20,6 +20,6 @@ Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shanduur)
 
-## Some other stats about me:
+## Some other stats about my GitHub:
 
 ![Shanduur's github stats](https://github-readme-stats.vercel.app/api?username=shanduur&show_icons=true)

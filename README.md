@@ -1,6 +1,6 @@
 # Hello, I'm Mateusz!
 
-Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. 
+Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. I love electric and hydrogen cars - I'm huge fan of Formula E.
 
 - 💻 I’m currently working on my thesis project **pluggabl** *\[coming soon...\]*
 - 🌱 I’m currently learning GoLang and gRPC

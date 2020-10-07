@@ -16,7 +16,7 @@ Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate
 
 ### My top GitHub stats:
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. This was created by [Anurag Hazra](github.com/anuraghazra)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. This was created by [Anurag Hazra](https://github.com/anuraghazra)*
 
 ![Shanduur's github stats](https://github-readme-stats.vercel.app/api?username=shanduur&show_icons=true&count_private=true)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shanduur&layout=compact)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shanduur&layout=compact&exclude_repo=shanduur.github.io)

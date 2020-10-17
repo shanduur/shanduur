@@ -14,7 +14,7 @@ Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>    
 
-### My top GitHub stats:
+### My GitHub stats:
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. This was created by [Anurag Hazra](https://github.com/anuraghazra)*
 

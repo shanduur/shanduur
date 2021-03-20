@@ -1,19 +1,18 @@
 # Hello, I'm Mateusz!
 
-Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. I love electric and hydrogen cars - I'm huge fan of Formula E.
+Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. I love electric and hydrogen cars - I'm huge fan of Formula E and I'm hyped for upcoming Extreme-E.
 
-- 💻 I started working on porting [PostmarketOS](https://github.com/postmarketOS) to [Gooseberry / Topwise A721](https://wiki.postmarketos.org/wiki/Topwise_A721_(topwise-a721))
-- 🌱 I’m currently learning Python for Data Science 
+- 💻 I started working on 
+- 🌱 I’m currently learning Python for Machine Learning 
 - 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
 
 ### Languages and Tools: 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>    
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/c-programming-language-logo.png"></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+<code><img height="32" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>    
 
 ### My GitHub stats:
 

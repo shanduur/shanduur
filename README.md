@@ -2,7 +2,7 @@
 
 Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. I love electric and hydrogen cars - I'm huge fan of Formula E and I'm hyped for upcoming Extreme-E.
 
-- 💻 I started working on 
+- 💻 I started working on my master's thesis
 - 🌱 I’m currently learning Python for Machine Learning 
 - 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
 

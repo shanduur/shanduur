@@ -12,7 +12,8 @@ Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate
 <code><a href="https://github.com/topics/go"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></code>
 <code><a href="https://github.com/topics/c"><img height="32" src="https://iconape.com/wp-content/png_logo_vector/c-programming-language-logo.png"></a></code>
 <code><a href="https://github.com/topics/postgresql"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></a></code>
-<code><a href="https://github.com/topics/docker"><img height="32" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></a></code>    
+<code><a href="https://github.com/topics/docker"><img height="32" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></a></code> 
+<code><a href="https://github.com/topics/kubernetes"><img height="32" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg"></a></code>    
 
 ### My GitHub stats:
 

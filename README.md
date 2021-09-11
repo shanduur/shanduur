@@ -1,9 +1,10 @@
 # Hello, I'm Mateusz!
 
-Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. I love electric and hydrogen cars - I'm huge fan of Formula E and I'm hyped for upcoming Extreme-E.
+Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. 
+I love electric and hydrogen cars - I'm huge fan of Formula E.
 
 - 💻 I started working on my master's thesis
-- 🌱 I’m currently learning Python for Machine Learning 
+- 🌱 I’m currently learning Python for Machine Learning and Kubernetes
 - 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
 
 ### Languages and Tools: 
@@ -19,5 +20,3 @@ Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate
 
 ![Shanduur's github stats](https://github-readme-stats.vercel.app/api?username=shanduur&show_icons=true&count_private=true)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shanduur&layout=compact&exclude_repo=shanduur.github.io)
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub. Those stat images were created by [Anurag Hazra](https://github.com/anuraghazra)*

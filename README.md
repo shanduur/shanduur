@@ -16,6 +16,11 @@ I love electric and hydrogen cars - I'm huge fan of Formula E.
 <code><a href="https://github.com/topics/docker"><img height="32" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></a></code> 
 <code><a href="https://github.com/topics/kubernetes"><img height="32" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg"></a></code>    
 
+Tech Stacks:
+- Personal: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/my-stack)
+- Me@Silesian Aerospace Technologies: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/silesian-aerospace-technologies)
+- Me@Asseco: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/silesian-aerospace-technologies)
+
 ### My GitHub stats:
 
 ![Shanduur's github stats](https://github-readme-stats.vercel.app/api?username=shanduur&show_icons=true&count_private=true)

@@ -18,17 +18,9 @@ I love electric and hydrogen cars - I'm huge fan of Formula E.
 
 ### Tech Stacks
 
-#### Personal
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/my-stack)
-
-#### Me@Silesian Aerospace Technologies
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/silesian-aerospace-technologies)
-
-#### Me@Asseco
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/asseco)
+[![StackShare](https://img.shields.io/badge/tech--stack-personal-blue)](https://stackshare.io/shanduur/my-stack)
+[![StackShare](https://img.shields.io/badge/tech--stack-me%40sat-yellow)](https://stackshare.io/shanduur/silesian-aerospace-technologies)
+[![StackShare](https://img.shields.io/badge/tech--stack-me%40asseco-red)](https://stackshare.io/shanduur/asseco)
 
 ### My GitHub stats:
 

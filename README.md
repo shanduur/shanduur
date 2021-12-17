@@ -28,7 +28,7 @@ I love electric and hydrogen cars - I'm huge fan of Formula E.
 
 #### Me@Asseco
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/silesian-aerospace-technologies)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/shanduur/asseco)
 
 ### My GitHub stats:
 

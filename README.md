@@ -4,10 +4,10 @@ Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate
 I love electric and hydrogen cars - I'm huge fan of Formula E.
 
 - 💻 I started working on my master's thesis
-- 🌱 I’m currently learning Python for Machine Learning and Kubernetes
+- 🌱 I’m currently learning Linux Kernel Developement
 - 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
 
-Also, take a look at my GitLab account: 
+Additionally, take a look at my GitLab account: 
 
 <code><a href="https://gitlab.com/Shanduur"><img height="32" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png"></a></code>
 

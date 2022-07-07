@@ -1,10 +1,9 @@
 # Hello, I'm Mateusz!
 
-Hi, I'm Mateusz Urbanek, a Silesian University of Technology student, passionate of cloud computing, servers and CLI tools. 
-I love electric and hydrogen cars - I'm huge fan of Formula E.
+Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. Master of Engineering in Data Science, Open-Source passionate, Go and C/C++ developer. In free time, I am Warhammer miniature painter [@doomshrine](https://www.instagram.com/doomshrine/). I am a huge fan of J.R.R. Tolkien's and George Lucas' work.
 
-- 💻 I started working on my master's thesis
-- 🌱 I’m currently learning Linux Kernel Developement
+- 🌱 I am preparing to a career change!
+- 🚀 I am a maintainer of [gcs-core](https://gitlab.com/sat-polsl/gcs/gcs-core) and [gcs-cli](https://gitlab.com/sat-polsl/gcs/gcs-cli) applications 
 - 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
 
 Additionally, take a look at my GitLab account: 

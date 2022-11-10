@@ -25,9 +25,9 @@ Additionally, take a look at my GitLab account:
 
 ### Tech Stacks
 
-[![StackShare](https://img.shields.io/badge/tech--stack-personal-blue)](https://stackshare.io/shanduur/my-stack)
+[![StackShare](https://img.shields.io/badge/tech--stack-personal-purple)](https://stackshare.io/shanduur/my-stack)
+[![StackShare](http://img.shields.io/badge/tech--stack-me%40dell-blue)](https://stackshare.io/shanduur/me-at-dell)
 [![StackShare](https://img.shields.io/badge/tech--stack-me%40sat-yellow)](https://stackshare.io/shanduur/silesian-aerospace-technologies)
-[![StackShare](https://img.shields.io/badge/tech--stack-me%40asseco-red)](https://stackshare.io/shanduur/asseco)
 
 ### My GitHub stats:
 

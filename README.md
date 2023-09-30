@@ -2,38 +2,72 @@
 
 [![@shanduur's Holopin board](https://holopin.me/shanduur)](https://holopin.io/@shanduur)
 
-Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. Master of Engineering in Data Science, Open-Source passionate, Go and C/C++ developer. In free time, I am Warhammer miniature painter [@doomshrine](https://www.instagram.com/doomshrine/). I am a huge fan of J.R.R. Tolkien's and George Lucas' work.
+Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. Master of Engineering in Data Science, Open-Source passionate, Go and Python developer. In free time, I am Warhammer miniature painter [@doomshrine](https://www.instagram.com/doomshrine/). I am a huge fan of J.R.R. Tolkien's and George Lucas' work.
 
-- 🌱 Proud member of Dell Technologies!
-- 🚀 I am a maintainer of [gcs-core](https://gitlab.com/sat-polsl/gcs/gcs-core), [gcs-listener](https://gitlab.com/sat-polsl/gcs/gcs-listener), [gcs-api-server](https://gitlab.com/sat-polsl/gcs/gcs-api-server) and [gcs-cli](https://gitlab.com/sat-polsl/gcs/gcs-cli) applications, as well as [gcs-lib-common](https://gitlab.com/sat-polsl/gcs/gcs-lib-common) repo.
 - 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
 
-Additionally, take a look at my GitLab account: 
+### Languages, Libraries and Tools
 
-<code><a href="https://gitlab.com/Shanduur"><img height="32" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png"></a></code>
-
-And my work GitHub account:
-
-<code><a href="https://github.com/shanduur-dell"><img height="32" src="https://octodex.github.com/images/original.png"></a></code>
-
-### Languages and Tools: 
-
-<code><a href="https://github.com/topics/python"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"></a></code>
-<code><a href="https://github.com/topics/go"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></code>
-<code><a href="https://github.com/topics/c"><img height="32" src="https://iconape.com/wp-content/png_logo_vector/c-programming-language-logo.png"></a></code>
-<code><a href="https://github.com/pingcap/tidb"><img height="32" src="https://styles.redditmedia.com/t5_3pf13/styles/communityIcon_xkubng5by8071.png"></a></code>
-<code><a href="https://github.com/cockroachdb/cockroach"><img height="32" src="https://crl2020.imgix.net/img/stacked-logo-hr.png"></a></code>
-<code><a href="https://github.com/topics/docker"><img height="32" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp"></a></code> 
-<code><a href="https://github.com/topics/kubernetes"><img height="32" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg"></a></code>
-<code><a href="https://www.proxmox.com/en/proxmox-ve"><img height="32" src="https://www.proxmox.com/images/proxmox/proxmox-logo-color-stacked.png"></a></code>
-<code><a href="https://xcp-ng.org"><img height="32" src="https://xcp-ng.org/assets/img/mainlogo.png"></a></code>
-<code><a href="https://github.com/topics/linux"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></a></code>
-
-### Tech Stacks
-
-[![StackShare](https://img.shields.io/badge/tech--stack-personal-purple)](https://stackshare.io/shanduur/my-stack)
-[![StackShare](http://img.shields.io/badge/tech--stack-me%40dell-blue)](https://stackshare.io/shanduur/me-at-dell)
-[![StackShare](https://img.shields.io/badge/tech--stack-me%40sat-yellow)](https://stackshare.io/shanduur/silesian-aerospace-technologies)
+<a href="https://go.dev/" target="_blank">
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="32" alt="Go Logo"></code>
+</a>
+<a href="https://opentelemetry.io/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/49998002" height="32" alt="OpenTelemetry Logo"></code>
+</a>
+<a href="http://ebpf.io" target="_blank">
+    <code><img src="https://ebpf.foundation/wp-content/uploads/sites/9/2023/03/ebpf_logo_color_on_white-2-1024x369.png" height="32" alt="eBPF Logo"></code>
+</a>
+<a href="https://www.mend.io/renovate/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/38656520" height="32" alt="Renovate Logo"></code>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+    <code><img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" height="32" alt="Docker Logo"></code>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/13629408" height="32" alt="Kubernetes Logo"></code>
+</a>
+<a href="https://k3s.io/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/49319725" height="32" alt="K3s Logo"></code>
+</a>
+<a href="https://rockylinux.org" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/75713131?" height="32" alt="Rocky Linux Logo"></code>
+</a>
+<a href="https://cilium.io/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/21054566" height="32" alt="Cilium Logo"></code>
+</a>
+<a href="https://talos.dev/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/13804887" height="32" alt="Talos Linux Logo"></code>
+</a>
+<a href="https://tetragon.io" target="_blank">
+    <code><img src="https://tetragon.io/favicons/apple-touch-icon-180x180.png" height="32" alt="Tetragon Logo"></code>
+</a>
+<a href="http://fluxcd.io" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/52158677" height="32" alt="Flux Logo"></code>
+</a>
+<a href="https://harvesterhci.io/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/79673333" height="32" alt="Harvester Logo"></code>
+</a>
+<a href="https://cloudnative-pg.io" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/100373852?s=200&v=4" height="32" alt="CNPG Logo"></code>
+</a>
+<a href="https://k2d.io/" target="_blank">
+    <code><img src="https://uploads-ssl.webflow.com/648219e0d74c297b78898447/649dd20e3122dd1f530abefe_k2d.svg" height="32" alt="K2d Logo"></code>
+</a>
+<a href="https://www.cockroachlabs.com/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/6748139" height="32" alt="CockroachDB Logo"></code>
+</a>
+<a href="http://opentofu.org" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/142061836" height="32" alt="OpenTofu Logo"></code>
+</a>
+<a href="https://www.python.org/" target="_blank">
+    <code><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="32" alt="Python Logo"></code>
+</a>
+<a href="https://www.raspberrypi.org/" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/1294177" height="32" alt="Raspberry Pi Logo"></code>
+</a>
+<a href="https://ziglang.org" target="_blank">
+    <code><img src="https://avatars.githubusercontent.com/u/27973237" height="32" alt="Zig Logo"></code>
+</a>
 
 ### My GitHub stats:
 

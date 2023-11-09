@@ -2,7 +2,7 @@
 
 [![@shanduur's Holopin board](https://holopin.me/shanduur)](https://holopin.io/@shanduur)
 
-Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. Master of Engineering in Data Science, Open-Source passionate, Go and Python developer. In free time, I am Warhammer miniature painter [@doomshrine](https://www.instagram.com/doomshrine/). I am a huge fan of J.R.R. Tolkien's and George Lucas' work.
+Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. Master of Engineering in Data Science, Open-Source passionate, Go and Python developer. In free time, I am Warhammer miniature painter [@um_miniatures](https://www.instagram.com/um_miniatures/). I am a huge fan of J.R.R. Tolkien's and George Lucas' work.
 
 - 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
 

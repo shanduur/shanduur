@@ -23,12 +23,6 @@ Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. M
 <a href="https://kubernetes.io/" target="_blank">
     <code><img src="https://avatars.githubusercontent.com/u/13629408" height="32" alt="Kubernetes Logo"></code>
 </a>
-<a href="https://k3s.io/" target="_blank">
-    <code><img src="https://avatars.githubusercontent.com/u/49319725" height="32" alt="K3s Logo"></code>
-</a>
-<a href="https://rockylinux.org" target="_blank">
-    <code><img src="https://avatars.githubusercontent.com/u/75713131?" height="32" alt="Rocky Linux Logo"></code>
-</a>
 <a href="https://cilium.io/" target="_blank">
     <code><img src="https://avatars.githubusercontent.com/u/21054566" height="32" alt="Cilium Logo"></code>
 </a>
@@ -37,9 +31,6 @@ Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. M
 </a>
 <a href="http://fluxcd.io" target="_blank">
     <code><img src="https://avatars.githubusercontent.com/u/52158677" height="32" alt="Flux Logo"></code>
-</a>
-<a href="https://www.proxmox.com/en/" target="_blank">
-    <code><img src="https://forum.proxmox.com/styles/uix/images/Proxmox-logo-stacked-white-background-1200.png" height="32" alt="Proxmox VE Logo"></code>
 </a>
 <a href="https://cloudnative-pg.io" target="_blank">
     <code><img src="https://avatars.githubusercontent.com/u/100373852?s=200&v=4" height="32" alt="CNPG Logo"></code>

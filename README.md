@@ -4,7 +4,7 @@
 
 Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. Master of Engineering in Data Science, Open-Source passionate, Go and Python developer. I am a huge fan of J.R.R. Tolkien's and George Lucas' work.
 
-- 💬 Ask me anything [here](https://github.com/Shanduur/shanduur/issues)
+- 💬 Ask me anything [here](https://github.com/shanduur/shanduur/discussions)
 
 ### Languages, Libraries and Tools
 

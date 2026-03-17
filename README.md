@@ -82,9 +82,9 @@ Hi, I'm Mateusz Urbanek, passionate of cloud computing, servers and CLI tools. M
       </a>
     </td>
     <td align="center" width="80">
-      <a href="https://cilium.io/" target="_blank">
-          <code><img src="./assets/cilium.png" height="32" alt="Cilium Logo"></code>
-        <br>Cilium
+      <a href="https://github.com/flannel-io/flannel" target="_blank">
+          <code><img src="./assets/flannel.png" height="32" alt="Flannel Logo"></code>
+        <br>Flannel
       </a>
     </td>
   </tr>
